@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project5\project5\source.cpp(56): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\project5\project5\source.cpp(77): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\user\source\repos\project5\project5\source.cpp(112): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project5\project5\source.cpp(116): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project5.vcxproj -> C:\Users\User\source\repos\Project5\Debug\Project5.exe
